@@ -225,7 +225,8 @@ button {
 .header_section{
     width: 100%;
     float: left;
-    background-image: url(/images/fundo_ps.jpeg);
+    background-color: #046db8; 
+    background-image: ur(/images/fundo_ps.jpeg);
     height: auto;
     background-size: 100%;
 }
